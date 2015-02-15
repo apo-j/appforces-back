@@ -1,0 +1,5 @@
+1: Add canSearch into table metadatafield
+2: replace coopernurse
+3: dataEngine -> SearchAppData, criteria bool?
+4: dataEngine -> MapRawDataToObject, convert type when hasmultiplevalue == true
+5: another site to store resources
